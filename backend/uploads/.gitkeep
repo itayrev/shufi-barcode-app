@@ -1,0 +1,4 @@
+# Uploads Directory
+
+This directory is where uploaded barcode images are stored.
+The .gitkeep file ensures this directory is included in version control while keeping uploaded files private.
