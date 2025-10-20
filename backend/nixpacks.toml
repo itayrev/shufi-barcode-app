@@ -1,8 +1,12 @@
-[build]
-cmd = "npm install --production"
+[providers]
+node = "18"
 
-[start]
+[phases.build]
+cmds = ["npm install --production"]
+
+[phases.start]
 cmd = "npm start"
 
 [variables]
 NODE_ENV = "production"
+PORT = "3000"
