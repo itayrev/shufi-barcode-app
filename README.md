@@ -1,6 +1,16 @@
 # Shufi - Barcode Management App
 
+🌍 **Now live globally on the cloud!**
+
 A web application for managing barcodes with real-time synchronization across all users.
+
+## 🚀 Live Deployment
+- **Backend API:** https://shufi-barcode-app-production.up.railway.app
+- **Frontend:** (Your Vercel URL)
+
+## 🔑 Login Credentials
+- **Username:** itayrev
+- **Password:** newpassword123
 
 ## Features
 
