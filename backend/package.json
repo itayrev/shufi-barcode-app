@@ -6,7 +6,7 @@
   "scripts": {
     "start": "node src/app.js",
     "dev": "nodemon src/app.js",
-    "build": "echo 'No build step required for backend'",
+    "build": "npm install --production",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
